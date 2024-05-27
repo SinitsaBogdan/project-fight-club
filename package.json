@@ -1,0 +1,11 @@
+{
+  "name": "project-fight-club",
+  "version": "1.0.0",
+  "description": "<p align=\"right\">\r   <samp>\r     <a href=\"https://github.com/SinitsaBogdan/project-fight-club\">figma</a>✨\r     <a href=\"#!\">file</a>📜\r     <a href=\"https://github.com/SinitsaBogdan/project-fight-club/wiki\">wiki</a>📚\r     <a href=\"https://github.com/SinitsaBogdan/project-fight-club/discussions\">discussions</a>📫\r     <a href=\"https://github.com/SinitsaBogdan/project-fight-club/issues\">issues</a>💡\r     <a href=\"#!\">metrics</a>🚀\r     <a href=\"https://github.com/users/SinitsaBogdan/projects/35\">task-board</a>💻\r     <a href=\"#!\">doc</a>🌱\r   </samp>\r </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
